@@ -1,0 +1,14 @@
+C:\Users\austi\source\repos\FileMaster\FileMaster\bin\Debug\net8.0\FileMaster.exe
+C:\Users\austi\source\repos\FileMaster\FileMaster\bin\Debug\net8.0\FileMaster.deps.json
+C:\Users\austi\source\repos\FileMaster\FileMaster\bin\Debug\net8.0\FileMaster.runtimeconfig.json
+C:\Users\austi\source\repos\FileMaster\FileMaster\bin\Debug\net8.0\FileMaster.dll
+C:\Users\austi\source\repos\FileMaster\FileMaster\bin\Debug\net8.0\FileMaster.pdb
+C:\Users\austi\source\repos\FileMaster\FileMaster\obj\Debug\net8.0\FileMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\austi\source\repos\FileMaster\FileMaster\obj\Debug\net8.0\FileMaster.AssemblyInfoInputs.cache
+C:\Users\austi\source\repos\FileMaster\FileMaster\obj\Debug\net8.0\FileMaster.AssemblyInfo.cs
+C:\Users\austi\source\repos\FileMaster\FileMaster\obj\Debug\net8.0\FileMaster.csproj.CoreCompileInputs.cache
+C:\Users\austi\source\repos\FileMaster\FileMaster\obj\Debug\net8.0\FileMaster.dll
+C:\Users\austi\source\repos\FileMaster\FileMaster\obj\Debug\net8.0\refint\FileMaster.dll
+C:\Users\austi\source\repos\FileMaster\FileMaster\obj\Debug\net8.0\FileMaster.pdb
+C:\Users\austi\source\repos\FileMaster\FileMaster\obj\Debug\net8.0\FileMaster.genruntimeconfig.cache
+C:\Users\austi\source\repos\FileMaster\FileMaster\obj\Debug\net8.0\ref\FileMaster.dll
